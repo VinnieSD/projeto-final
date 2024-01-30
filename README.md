@@ -7,7 +7,9 @@ Projeto desenvolvido no último módulo do curso Cientista de Dados da Ebac.
 
 Aplicação web feita com Streamlit,Python e Pycaret.
 
-User ![Visualização do Vídeo](file:///Users/macbookpro/Desktop/Gravação%20de%20Tela%202024-01-30%20às%2018.54.51)
+https://github.com/VinnieSD/projeto-final/assets/150684999/ac0817cc-e93a-4420-b01f-b8f977a60e82
+
+
 
 
 
